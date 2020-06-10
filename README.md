@@ -29,7 +29,7 @@ Definido meu horário de estudo, criei tarefas atreladas a um calendário, visan
 
 ### Cronograma
 
-Baseado no que foi aprendido até o momento no Bootcamp sobre organização e planejamento, foi gerado o seguinte cronograma, desenvolvido no software <b><I>Notion</I><b>.
+Baseado no que foi aprendido até o momento no Bootcamp sobre organização e planejamento, foi gerado o seguinte cronograma, desenvolvido no software <b><I>Notion</I></b>.
 
 O Notion funciona tanto em plataformas mobile, tanto em plataformas desktop, e ambas podem ser baixadas em sua [página oficial](https://www.notion.so/product).
 
