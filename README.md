@@ -37,18 +37,26 @@ Se ficou interessado pela metodologia da Rocketseat, o meu cronograma pode ser a
 
 📄 **[Cronograma_Bootcamp](https://www.notion.so/2-Ambiente-de-desenvolvimento-de25967d7b974997bc6488df7d7ca3b2)**
 
-### Definindo o cronograma semanal
+#### Definindo o cronograma geral e detalhando o necessário para aprendizado no Notion:
 
 <p align="center">
-  <img width="80%" src="./assets/cronograma-diario.png">
+  <img width="80%" src="./assets/crono-geral.png">
+</p>
+
+Aqui foi organizado uma visão simples sobre as ferramtens a serem utilizadas no bootcamp, as tarefas e os cronogramas para as primeiras aulas! Go Rocket!!!
+
+#### Definindo o cronograma semanal - horário de estudo:
+
+<p align="center">
+  <img width="80%" src="./assets/crono-semanal.png">
 </p>
 
 Nessa sessão foram informados os horários fixos que dedicarei durante a jornada como dev, afinal conforme o Diego, a rotina de estudos será o primeiro passo para se conseguir atingir os objetivos o mais rápido possível!
 
-### Definindo o cronograma diário
+#### Definindo o cronograma diário:
 
 <p align="center">
-  <img width="80%" src="./assets/cronograma-semanal.png">
+  <img width="80%" src="./assets/crono-cont-semanal.png">
 </p>
 
 Agora foram planejadas as tarefas diárias de modo que eu esteja preparado para todo o conteúdo que irei consumir durante a semana.
