@@ -35,7 +35,7 @@ O Notion funciona tanto em plataformas mobile, tanto em plataformas desktop, e a
 
 Se ficou interessado pela metodologia da Rocketseat, o meu cronograma pode ser acessado no link abaixo:
 
-📄 **[Cronograma_Bootcamp](https://www.notion.so/2-Ambiente-de-desenvolvimento-de25967d7b974997bc6488df7d7ca3b2)**
+📄 **[Cronograma_Bootcamp](https://www.notion.so/1-Cronograma-do-Bootcamp-fdcf632303a0462db0557235c069826e)**
 
 #### Definindo o cronograma geral e detalhando o necessário para aprendizado no Notion:
 
